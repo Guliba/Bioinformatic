@@ -1,2 +1,2 @@
 # Bioinformatic
-Some small scripts，help yourself~ 
+Some small test scripts，help yourself~ 
